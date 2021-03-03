@@ -13,11 +13,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: ''}
-- {icon: 'twitter', link: ''}
-- {icon: 'linkedin', link: ''}
-- {icon: 'envelope', link: 'mailto:'}
-- {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'fab fa-github', link: 'https://github.com/michzza'}
+- {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/michelesrour'}
+- {icon: 'fas fa-envelope', link: 'mailto:srour.michele@gmail.com'}
+- {icon: 'fab fa-kaggle', link: 'asdasf'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
