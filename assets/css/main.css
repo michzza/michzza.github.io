@@ -505,3 +505,10 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+
+.dataframe {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
