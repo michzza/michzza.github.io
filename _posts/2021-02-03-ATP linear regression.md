@@ -204,7 +204,7 @@ df.head()
 
 
 #### Analysing the relationship between different features of the data set and the amount of Winnings
-Plotting different features against Winnings to identify patterns. There appears to be a strong positive linear relationship between BreakPointsFaced, BreakPointsOpportunities, ReturnGamesPlayed, ServiceGamesPlayed and wins.
+Plotting different features against Winnings to identify patterns. There appears to be a strong positive linear relationship between BreakPointsFaced, BreakPointsOpportunities, ReturnGamesPlayed, ServiceGamesPlayed and Winningss.
 
 
 ```python
@@ -231,7 +231,7 @@ plt.show()
     
 
 
-Calculating the Pearson Correlation between Winnings and all other features to identify those that have a string linear relationship with Winnings.
+Calculating the Pearson Correlation between Winnings and all other features to identify those that have a strong linear relationship with Winnings.
 
 
 ```python
