@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gender Classification using NLP on OkCupid dataset"
+title: "NLP on OkCupid dataset"
 categories: journal
 tags: [documentation,sample]
 image: OkCupid-Sky-Logo.png
