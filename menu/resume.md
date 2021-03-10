@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 
+title: Resume
 ---
 ## Skills
 ---
 ### Data Science/Machine Learning
 
-- Built and trained machine learning models using SciKit Learn including the following examples - predicting a Tennis player's winnings based on historical game stats ... 
+- Built and trained machine learning models using SciKit Learn including the following examples - predicting a Tennis player's winnings based on historical game stats, predicting a person's gender based on the sentences they use, etc ...
 - Wrote web scrapers, API clients, and SQL queries to pull data from various sources 
 - Cleaned and tidied data with Pandas and Numpy
-- Performed Exploratory Data Analysis and built visualisations to support the analysis using MatPlotLib and Seaborn.
-- NLP
+- Performed Exploratory Data Analysis and built visualisations to support the analysis using MatPlotLib and Seaborn
+- Used Natural Language Processing techniques to identify different styles of writing
 
 ### Project/Team management
 
