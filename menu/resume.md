@@ -2,15 +2,23 @@
 layout: page
 title: Resume
 ---
+I am a data scientist with a Masters in Computer Science from a top French university and project and team management experience from working in a major financial services company in London. 
+I've always been interested in Machine Learning and got exposed to big data in my previous role. 
+In January 2021, I started studying and working on data science projects full time. Since then, I have been sharing my work and journey [here](https://michzza.github.io).
+
 ## Skills
 ---
 ### Data Science/Machine Learning
 
-- Built and trained machine learning models using SciKit Learn including the following examples - predicting a Tennis player's winnings based on historical game stats, predicting a person's gender based on the sentences they use, etc ...
+- Built and trained machine learning models using scikit-learn and neural networks with Tensorflow (examples of my work can be found [here](https://michzza.github.io/)
 - Wrote web scrapers, API clients, and SQL queries to pull data from various sources 
 - Cleaned and tidied data with Pandas and Numpy
 - Performed Exploratory Data Analysis and built visualisations to support the analysis using MatPlotLib and Seaborn
 - Used Natural Language Processing techniques to identify different styles of writing
+
+### Tech
+Python, scikit-learn, pandas, matplotlib, tensorflow, seaborn, SQL, C/C++, Java
+
 
 ### Project/Team management
 
@@ -30,9 +38,9 @@ title: Resume
 ### KPMG (Paris, FRANCE)
 *Senior IT Risk consultant* | *September 2015 - October 2018*
 
-- Assessed risks and opportunities related to technology in areas such as IT governance, tech contracts and potential synergies in terms of systems or processes, in the context of potential mergers or acquisitions
+- Assessed risks and opportunities related to technology in areas such as IT governance, tech contracts and potential synergies in terms of systems or processes
 
-- Delivered advisory engagements helping clients develop their Sarbanes–Oxley compliance procedures by reviewing business processes and designing processes and controls to enable SOX compliance
+- Delivered advisory engagements helping clients develop their Sarbanes–Oxley compliance procedures by reviewing business processes and designing processes and controls to enable compliance
 
 ### Accenture (Paris, FRANCE)
 *IT Consulting Intern* | *August 2014 - February 2015*
@@ -49,10 +57,6 @@ title: Resume
 ---
 ### Telecom Paristech (Paris, FRANCE)
 *MSc. in Computer Science* | *September 2012 - August 2015*
-
-## Tech
----
-Python, Pandas, Matplotlib, Seaborn, SQL, C/C++, Java
 
 ## Languages
 ---
