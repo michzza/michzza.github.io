@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Legendary Titanic - Part I"
+title: "The Titanic Survival dataset"
 categories: journal
 tags: [documentation,sample]
 image: titanic.jpg
