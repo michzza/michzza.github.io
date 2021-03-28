@@ -9,7 +9,7 @@ In January 2021, I started studying and working on data science projects full ti
 ## Skills
 ---
 ### Data Science/Machine Learning
-
+- Completed Andrew Ng's Neural Networks and Deep Learning specialization course on [Coursera](https://www.coursera.org/specializations/deep-learning) as well as [Codecademy](https://www.codecademy.com/learn/paths/data-science)'s Data Scientist Career Path
 - Built and trained machine learning models using scikit-learn and neural networks with Tensorflow (examples of my work can be found [here](https://michzza.github.io/)
 - Wrote web scrapers, API clients, and SQL queries to pull data from various sources 
 - Cleaned and tidied data with Pandas and Numpy
@@ -60,5 +60,6 @@ Python, scikit-learn, pandas, matplotlib, tensorflow, seaborn, SQL, C/C++, Java
 
 ## Languages
 ---
-French (fluent), Arabic (fluent), Spanish (beginner)
+French (fluent), Arabic (fluent)
+
 
