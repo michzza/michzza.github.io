@@ -538,7 +538,7 @@ predictions_test = predict(test_x, test_y, parameters)
     On training set: 
     Accuracy: 0.9999999999999998
     On test set: 
-    Accuracy: 0.6799999999999999
+    Accuracy: 0.7299999999999999
 
 
 ## Building a deeper, 4-layer Neural Network
@@ -574,7 +574,7 @@ pred_test = predict(test_x, test_y, parameters)
     On training set: 
     Accuracy: 0.9999999999999998
     On test set: 
-    Accuracy: 0.74
+    Accuracy: 0.8
 
 
 ## Testing the model on a new image
