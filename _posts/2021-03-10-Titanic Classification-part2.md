@@ -4,6 +4,7 @@ title: "Did Jack and Rose survive?"
 categories: journal
 tags: [documentation,sample]
 image: jack-and-rose.jpg
+
 ---
 
 This post is part II of a walkthough of how I built and improved my submission to the Titanic Machine Learning competition on Kaggle. The goal of the competition is to create a machine learning model that predicts which passengers survived the Titanic shipwreck. 
