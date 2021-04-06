@@ -6,31 +6,13 @@ tags: [documentation,sample]
 image: cats.png
 
 ---
-In this notebook we build a deep neural network from scratch. The model is a classifier that distinguishes cat images from non-cat images. We first build a two layer neural network, and then build a deeper 4 layer neural network and compare how they perform.
+When I followed Andrew Ng's *Neural Networks and deep learning* course on Coursera, I found building a Neural Network from scratch extremely helpful to get a clear understanding of how these work. In this post, I share with you how I built a deep neural network from scratch to get a better understanding of its inner workings. 
 
-We build each model following the steps below: 
-- define the model's structure - number of layers, number of units in each layer and its activation function
-- initialize the model's weights and biases for each layer
-- loop for a number of iterations where each iteration is a step of the Gradient Descent algorithm to minimize the loss function:
+The model is a classifier that distinguishes cat images from non-cat images. I start by building a 2-layer Neural Network, then a deeper 4-layer Network to compare how they perform.
 
-    1. perform forward propagation to compute the activations at each layer
-    2. compute the cross-entropy cost
-    3. perform back propagation to compute gradients at each layer
-    4. update weights and biases
+Our models are basic neural networks and their performances are obviously not optimal for many reasons. Their performances can however be further improved notably via hyperparameter tuning such as exploring different network structures, depths, using regularization etc ... 
 
-- predict the labels of the test set using the trained model
-
-This notebook will follow the following structure:
-- load the data set
-- build the 2 layer model
-- use trained model to predict labels of test data
-- repeat the above for a deeper network
-- compare the models' performance 
-
-Our models are basic neural networks and their performances are obviously not optimal for many reasons. Their performances can however be further improved via hyperparameter tuning such as exploring different network structures, depths, using regularization etc ... 
-
-More information regarding references and the dataset can be found at the bottom of this post.
-
+Please note that more information regarding references and the dataset can be found at the bottom of this post.
 
 
 
