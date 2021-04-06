@@ -6,7 +6,7 @@ tags: [documentation,sample]
 image: cats.png
 
 ---
-When I followed Andrew Ng's *Neural Networks and deep learning* course on Coursera, I found building a Neural Network from scratch extremely helpful to get a clear understanding of how these work. In this post, I share with you how I built a deep neural network from scratch to get a better understanding of its inner workings. 
+When I followed Andrew Ng's *Neural Networks and Deep Learning* course on Coursera, I found building a Neural Network from scratch extremely helpful to get a clear understanding of how these work. In this post, I share with you how I built a deep neural network from scratch to get a better understanding of its inner workings. 
 
 The model is a classifier that distinguishes cat images from non-cat images. I start by building a 2-layer Neural Network, then a deeper 4-layer Network to compare how they perform.
 
